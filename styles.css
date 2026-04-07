@@ -13,7 +13,7 @@
   --f-display: 'Playfair Display', Georgia, serif;
   --f-body:    'DM Sans', sans-serif;
 
-  --nav-h: 72px;
+  --nav-h: 154px;
 }
 
 /* ========================================
@@ -135,7 +135,7 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
 }
 .nav__logo-img {
-  height: 60px;
+  height: 130px;
   width: auto;
   display: block;
 }
