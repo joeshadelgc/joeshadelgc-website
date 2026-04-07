@@ -432,6 +432,15 @@ a { color: inherit; text-decoration: none; }
   align-items: center;
 }
 
+.about__caption {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-style: italic;
+  text-align: center;
+  line-height: 1.4;
+}
+
 .about__photo img {
   width: 100%;
   aspect-ratio: 4 / 5;
